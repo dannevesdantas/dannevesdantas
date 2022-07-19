@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working at https://www.casasbahia.com.br/ as a Senior Software Engineer
-- 🌱 I’m currently learning [Microsoft Azure](https://docs.microsoft.com/pt-br/learn/), Kubernetes and [KEDA](https://keda.sh/)
-- 👯 I’m looking to collaborate on Docs and Localization
-- 🤔 I’m looking for help with: Dealing with real life complex enterprise architectures
-- 💬 Ask me about: Learning
+- 🔭 I’m currently working at [Casas Bahia](https://www.casasbahia.com.br/), the largest Brazilian retail company, as a Senior Software Engineer
+- 🌱 I’m currently learning [GitHub Actions](https://github.com/features/actions) and [KEDA](https://keda.sh/)
+- 👯 I’m looking to collaborate on Docs and Localization mostly
+- 🤔 I’m looking for help with: Dealing with drawbacks of real life complex enterprise architectures
+- 💬 Ask me about: Learning and self-improvement
 - 📫 How to reach me: https://twitter.com/dannevesdantas
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Forgot how to drive manual cars 😂
+- ⚡ Fun fact: Forgot how to drive manual cars 🤣
