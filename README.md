@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working as a Senior Backend Software Engineer at [Via](https://www.via.com.br/), the largest Brazilian retail company. Its the group behind [Casas Bahia](https://www.casasbahia.com.br/), [Ponto](https://www.pontofrio.com.br/) and [Extra.com](https://www.extra.com.br/). 
+- 🌱 I’m currently learning [GitHub Actions](https://github.com/features/actions) and [KEDA](https://keda.sh/)
+- 🤓 I want to learn: A bit of everything
+- 👯 I’m looking to collaborate mostly on Docs and Localization
+- 🤔 I’m looking for help with: Dealing with drawbacks of real life complex enterprise architectures
+- 💬 Ask me about: Learning and self-improvement
+- 📫 How to reach me: https://twitter.com/dannevesdantas
+- 😄 Pronouns: He/Him
+- ⚽ Hobbies: Games 🎮 and Beach volleyball 🏐
+- ⚡ Fun fact: Forgot how to drive manual cars 🤣
