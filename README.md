@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working at https://www.casasbahia.com.br/ as a Senior Software Engineer
+- 🌱 I’m currently learning [Microsoft Azure](https://docs.microsoft.com/pt-br/learn/), Kubernetes and [KEDA](https://keda.sh/)
+- 👯 I’m looking to collaborate on Docs and Localization
+- 🤔 I’m looking for help with: Dealing with real life complex enterprise architectures
+- 💬 Ask me about: Learning
+- 📫 How to reach me: https://twitter.com/dannevesdantas
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Forgot how to drive manual cars 😂
