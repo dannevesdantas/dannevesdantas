@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about: Learning and self-improvement
 - 📫 How to reach me: https://twitter.com/dannevesdantas
 - 😄 Pronouns: He/Him
-- ⚽ Hobbies: Beach volleyball and Games 🎮
+- ⚽ Hobbies: Games 🎮 and Beach volleyball 🏐
 - ⚡ Fun fact: Forgot how to drive manual cars 🤣
