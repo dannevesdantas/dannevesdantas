@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a Senior Backend Software Engineer at [Via](https://www.via.com.br/), the largest Brazilian retail company, its the group behind [Casas Bahia](https://www.casasbahia.com.br/), [Ponto](https://www.pontofrio.com.br/) and [Extra](https://www.extra.com.br/). 
+- 🔭 I’m currently working as a Senior Backend Software Engineer at [Via](https://www.via.com.br/), the largest Brazilian retail company. Its the group behind [Casas Bahia](https://www.casasbahia.com.br/), [Ponto](https://www.pontofrio.com.br/) and [Extra](https://www.extra.com.br/). 
 - 🌱 I’m currently learning [GitHub Actions](https://github.com/features/actions) and [KEDA](https://keda.sh/)
 - 🤓 I want to learn: A bit of everything
 - 👯 I’m looking to collaborate mostly on Docs and Localization
