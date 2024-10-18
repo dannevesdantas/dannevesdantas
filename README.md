@@ -1,10 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently studying [Software Architecture postgraduate degree at FIAP](https://postech.fiap.com.br/curso/software-architecture/) college in São Paulo, Brazil. In my last job I worked as a Senior Backend Software Engineer at Grupo Casas Bahia _(previously Via Varejo)_, the largest Brazilian retail company. It's the group behind [Casas Bahia](https://www.casasbahia.com.br/), [Ponto](https://www.pontofrio.com.br/) and [Extra.com.br](https://www.extra.com.br/)<br>
-🌱 I’m currently learning Terraform<br>
+🌱 I’m currently learning Data Structures and Algorithms<br>
 🤓 I want to learn: A bit of everything<br>
 👯 I’m looking to collaborate mostly on Docs and Localization<br>
-🤔 I’m looking for help with: Dealing with drawbacks of distributed systems<br>
-💬 Ask me about: Learning and self-improvement<br>
+🤔 I’m looking for help with: Data Structures and Algorithms<br>
+💬 Ask me about: DDD and Clean Architecture<br>
 📫 How to reach me: https://twitter.com/dannevesdantas<br>
 😄 Pronouns: He/Him<br>
 ⚽ Hobbies: Games🎮and Beach volleyball🏐. Check my gaming channel on YouTube at www.youtube.com/@dandantasgameplays<br>
